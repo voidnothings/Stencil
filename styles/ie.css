@@ -1,0 +1,7 @@
+/* trigger hasLayout in IE */
+
+.clearFix,
+.clear,
+.clearVisible,
+.clearBoth,
+.clearAuto{ zoom: 1; }
